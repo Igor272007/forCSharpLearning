@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/bin/Debug/net6.0/examples001_helloConsole
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/bin/Debug/net6.0/examples001_helloConsole.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/bin/Debug/net6.0/examples001_helloConsole.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/bin/Debug/net6.0/examples001_helloConsole.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/bin/Debug/net6.0/examples001_helloConsole.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/refint/examples001_helloConsole.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/examples001_helloConsole.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples001_helloConsole/obj/Debug/net6.0/ref/examples001_helloConsole.dll
