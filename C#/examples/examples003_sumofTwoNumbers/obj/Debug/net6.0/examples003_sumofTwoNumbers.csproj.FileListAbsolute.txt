@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/bin/Debug/net6.0/examples003_sumofTwoNumbers
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/bin/Debug/net6.0/examples003_sumofTwoNumbers.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/bin/Debug/net6.0/examples003_sumofTwoNumbers.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/bin/Debug/net6.0/examples003_sumofTwoNumbers.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/bin/Debug/net6.0/examples003_sumofTwoNumbers.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/refint/examples003_sumofTwoNumbers.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/examples003_sumofTwoNumbers.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples003_sumofTwoNumbers/obj/Debug/net6.0/ref/examples003_sumofTwoNumbers.dll
