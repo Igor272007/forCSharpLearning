@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/bin/Debug/net6.0/examples005_ConditionIfElse
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/bin/Debug/net6.0/examples005_ConditionIfElse.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/bin/Debug/net6.0/examples005_ConditionIfElse.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/bin/Debug/net6.0/examples005_ConditionIfElse.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/bin/Debug/net6.0/examples005_ConditionIfElse.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/refint/examples005_ConditionIfElse.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/examples005_ConditionIfElse.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples005_ConditionIfElse/obj/Debug/net6.0/ref/examples005_ConditionIfElse.dll
