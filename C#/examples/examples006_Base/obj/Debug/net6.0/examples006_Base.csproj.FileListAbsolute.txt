@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/bin/Debug/net6.0/examples006_Base
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/bin/Debug/net6.0/examples006_Base.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/bin/Debug/net6.0/examples006_Base.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/bin/Debug/net6.0/examples006_Base.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/bin/Debug/net6.0/examples006_Base.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/refint/examples006_Base.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/examples006_Base.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples006_Base/obj/Debug/net6.0/ref/examples006_Base.dll
