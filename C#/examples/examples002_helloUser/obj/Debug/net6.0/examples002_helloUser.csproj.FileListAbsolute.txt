@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/bin/Debug/net6.0/examples002_helloUser
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/bin/Debug/net6.0/examples002_helloUser.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/bin/Debug/net6.0/examples002_helloUser.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/bin/Debug/net6.0/examples002_helloUser.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/bin/Debug/net6.0/examples002_helloUser.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/refint/examples002_helloUser.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/examples002_helloUser.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/examples/examples002_helloUser/obj/Debug/net6.0/ref/examples002_helloUser.dll
