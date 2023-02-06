@@ -1,6 +1,7 @@
 ﻿Console.WriteLine("введите число");
 string numberStr = Console.ReadLine(); //
-int number = Convert.ToInt32(numberStr); // "2232" -> 2232 convert - класс ToInt - метод. Из строчного типа переводят в числовой
+int number = Convert.ToInt32(numberStr); // "2232" -> 2232 convert - класс ToInt - метод. Из строчного типа 
+переводят в числовой
 
 int result = number * number;
 

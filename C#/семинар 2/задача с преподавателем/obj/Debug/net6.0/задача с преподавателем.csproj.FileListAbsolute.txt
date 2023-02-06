@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/bin/Debug/net6.0/задача с преподавателем
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/bin/Debug/net6.0/задача с преподавателем.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/bin/Debug/net6.0/задача с преподавателем.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/bin/Debug/net6.0/задача с преподавателем.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/bin/Debug/net6.0/задача с преподавателем.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/refint/задача с преподавателем.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/задача с преподавателем.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 2/задача с преподавателем/obj/Debug/net6.0/ref/задача с преподавателем.dll
