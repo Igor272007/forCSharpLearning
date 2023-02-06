@@ -11,6 +11,12 @@ int numberOne = numberRequest("введите число 1");
 int numberTwo = numberRequest("введите число 2");
 
 if (numberOne * numberOne == numberTwo)
+
+// if (numberOne * numberOne == numberTwo || numberTwo * numberTwo == numberOne)
+// {
+//      Console.WriteLine("одно из введенных чисел является квадратом другого");
+// }
+
 {
     Console.WriteLine("второе число равно квадрату первого");
 }
