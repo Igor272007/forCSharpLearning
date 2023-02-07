@@ -6,10 +6,19 @@
 int numberRequest(string message)
 {
      Console.WriteLine(message);
-     int number = Convert.ToInt32(Console.ReadLine());
-     return number;
+     int numberDay = Convert.ToInt32(Console.ReadLine());
+     return numberDay;
 }
 
-int number = numberRequest("введите номер дня недели от 1 до 7: ");
+int numberDay = numberRequest("введите номер дня недели от 1 до 7: ");
 
-Console.WriteLine((number > 5 && number < 8) ? ("да") : ("нет"));
+if (numberDay == 6 || numberDay == 7)
+{
+     Console.WriteLine("да");
+}
+else if (numberDay < 1 || numberDay > 7)
+{
+     Console.WriteLine("Вы ввели неверное число");
+}
+else
+Console.WriteLine("нет");

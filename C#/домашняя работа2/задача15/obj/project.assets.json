@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача 15/задача 15.csproj",
+      "projectUniqueName": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача15/задача 15.csproj",
       "projectName": "задача 15",
-      "projectPath": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача 15/задача 15.csproj",
+      "projectPath": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача15/задача 15.csproj",
       "packagesPath": "/Users/igorkuznetcov/.nuget/packages/",
-      "outputPath": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача 15/obj/",
+      "outputPath": "/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа2/задача15/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/igorkuznetcov/.nuget/NuGet/NuGet.Config"
