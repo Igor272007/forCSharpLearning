@@ -8,7 +8,7 @@ int numberRequest(string message)
     return number;
 }
 
-int number = numberRequest("введите число: ");
+int number = numberRequest("введите трехзначное число: ");
 
 int secondDigit = number / 10 % 10;
 
