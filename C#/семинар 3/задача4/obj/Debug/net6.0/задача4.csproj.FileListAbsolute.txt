@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/bin/Debug/net6.0/задача4
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/bin/Debug/net6.0/задача4.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/bin/Debug/net6.0/задача4.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/bin/Debug/net6.0/задача4.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/bin/Debug/net6.0/задача4.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/refint/задача4.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/задача4.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/задача4/obj/Debug/net6.0/ref/задача4.dll
