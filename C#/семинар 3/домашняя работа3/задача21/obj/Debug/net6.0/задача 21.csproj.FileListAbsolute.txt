@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/bin/Debug/net6.0/задача 21
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/bin/Debug/net6.0/задача 21.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/bin/Debug/net6.0/задача 21.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/bin/Debug/net6.0/задача 21.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/bin/Debug/net6.0/задача 21.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/refint/задача 21.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/задача 21.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача 21/obj/Debug/net6.0/ref/задача 21.dll
