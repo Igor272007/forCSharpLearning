@@ -4,12 +4,28 @@
 // 2 -> 1, 4
 int GetNumber(string message)
 {
-   ;
+    int result = 0;
+
+    while(true)
+    {
+        Console.WriteLine(message);
+
+        if(int.TryParse(Console.ReadLine(), out result) && result !=0)
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Ввели не число или 0. Повторите ввод");
+        }
+    }
+
+    return result;
 }
 
-int numberN = GetNumber("введите число"); // не видит GetNumber как функцию, пишет нет такой. Возм.причины - старый софт?
+int numberN = GetNumber("введите число");
 
 for (int i = 1; i <= Math.Abs(numberN); i++)// Math.Abs() - все, что в скобках попадает берется в модуле
 {
-    Console.WriteLine($"{Math.Pow(i,2)} ");
+    Console.Write($"{Math.Pow(i,2)} ");
 }
