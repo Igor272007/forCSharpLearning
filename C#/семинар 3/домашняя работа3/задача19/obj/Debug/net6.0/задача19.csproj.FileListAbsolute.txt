@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/bin/Debug/net6.0/задача19
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/bin/Debug/net6.0/задача19.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/bin/Debug/net6.0/задача19.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/bin/Debug/net6.0/задача19.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/bin/Debug/net6.0/задача19.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/refint/задача19.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/задача19.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/семинар 3/домашняя работа3/задача19/obj/Debug/net6.0/ref/задача19.dll
