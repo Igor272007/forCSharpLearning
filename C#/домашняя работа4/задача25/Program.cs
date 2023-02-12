@@ -30,6 +30,6 @@ int AToPowOfB = numberA;
 
 for (int i = 1; i < numberB; i++)
 {
-    AToPowOfB = AToPowOfB * AToPowOfB;
+    AToPowOfB = AToPowOfB * numberA;
 }
 Console.WriteLine($"{numberA}, {numberB} -> {AToPowOfB}");
