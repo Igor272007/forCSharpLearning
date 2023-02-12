@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/bin/Debug/net6.0/задача29
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/bin/Debug/net6.0/задача29.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/bin/Debug/net6.0/задача29.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/bin/Debug/net6.0/задача29.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/bin/Debug/net6.0/задача29.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/refint/задача29.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/задача29.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа4/задача29/obj/Debug/net6.0/ref/задача29.dll
