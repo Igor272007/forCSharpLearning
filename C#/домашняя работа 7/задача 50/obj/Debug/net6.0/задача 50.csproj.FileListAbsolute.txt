@@ -1,0 +1,15 @@
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.csproj.AssemblyReference.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.AssemblyInfoInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.AssemblyInfo.cs
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.csproj.CoreCompileInputs.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/bin/Debug/net6.0/задача 50
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/bin/Debug/net6.0/задача 50.deps.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/bin/Debug/net6.0/задача 50.runtimeconfig.json
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/bin/Debug/net6.0/задача 50.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/bin/Debug/net6.0/задача 50.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/refint/задача 50.dll
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.pdb
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/задача 50.genruntimeconfig.cache
+/Users/igorkuznetcov/Desktop/GeekBrains/GitEducation/C#/домашняя работа 7/задача 50/obj/Debug/net6.0/ref/задача 50.dll
