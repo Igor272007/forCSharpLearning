@@ -36,16 +36,6 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-void PrintNumber(int[] number)
-{
-    for (int i = 0; i < number.GetLength(0); i++)
-    {
-       
-        Console.Write($"{number[i]} ");
-        Console.WriteLine();
-    }
-}
-
 int[,] matrix = InitMatrix();
 PrintMatrix(matrix);
 
@@ -64,8 +54,7 @@ for (int i = 0; i < matrix.GetLength(0); i++)
     Console.Write($"сумма строки {i + 1} равна {sumOfLine} ");
     
 }
-// Console.WriteLine();
-// PrintNumber(number);
+
 
 
 int FindMinNumber(int[] number)
