@@ -37,19 +37,21 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-static void BubbleSort(int[] matrix)
+void BubbleSort(int[] matrix)
+{
+    for (int i = 0; i < matrix.Length; i++)
     {
-        for (int i = 0; i < matrix.Length; i++)
-                for (int j = 0; j < matrix.Length - i - 1; j++)
-                {
-                    if (matrix[j] < matrix[j + 1])
-                    {
-                        int temp = matrix[j];
-                        matrix[j] = matrix[j + 1];
-                        matrix[j + 1] = temp;
-                    }
-                }
+        for (int j = 0; j < matrix.Length - i - 1; j++)
+        {
+            if (matrix[j] < matrix[j + 1])
+            {
+                int temp = matrix[j];
+                matrix[j] = matrix[j + 1];
+                matrix[j + 1] = temp;
+            }
+        }
     }
+}
 
 void Insert(bool isRow, int dim, int[] source, int[,] dest)
 {
